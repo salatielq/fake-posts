@@ -1,0 +1,55 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Obama Offers Hopeful Vision While Noting Nation’s Fears",
+      "desciption": "One day after Uber updated its API to add ‘content experiences’ for passengers, the U.S. company’s biggest rival — Didi Kuaidi in China — has opened its own platform up by releasing an SDK for developers and third-parties.",
+      "image": "https://i.imgur.com/XhuXrU0.png",
+      "author": "Creed Bratton",
+      "authorImage": "https://randomuser.me/api/portraits/men/20.jpg",
+      "category": "Politics"
+    },
+    {
+      "id": 2,
+      "title": "Didi Kuaidi, The Company Beating Uber In China, Opens Its API To Third Party Apps",
+      "desciption": "One day after Uber updated its API to add ‘content experiences’ for passengers, the U.S. company’s biggest rival — Didi Kuaidi in China — has opened its own platform up by releasing an SDK for developers and third-parties.",
+      "image": "https://i.imgur.com/otAbjC3.jpg",
+      "author": "Creed Bratton",
+      "authorImage": "https://randomuser.me/api/portraits/men/20.jpg",
+      "category": "Tech"
+    },
+    {
+      "id": 3,
+      "title": "NASA Formalizes Efforts To Protect Earth From Asteroids",
+      "desciption": "Last week, NASA announced a new program called the Planetary Defense Coordination Office (PDCO) which will coordinate NASA’s efforts for detecting and tracking near-Earth objects (NEOs). If a large object comes hurtling toward our planet…",
+      "image": "https://i.imgur.com/TKFWL3v.jpg",
+      "author": "Alexandre Henrique Shailesh Zeta-Jones",
+      "authorImage": "https://randomuser.me/api/portraits/men/20.jpg",
+      "category": "Tech"
+    },
+    {
+      "id": 4,
+      "title": "For Some Atlanta Hawks, a Revved-Up Game of Uno Is Diversion No. 1",
+      "desciption": "The favored in-flight pastime of a group of players including Al Horford, Kent Bazemore and Dennis Schroder is a schoolchildren’s card game with some added twists.",
+      "author": "Alexandre Henrique Shailesh Zeta-Jones",
+      "authorImage": "https://randomuser.me/api/portraits/men/20.jpg",
+      "category": "Sports"
+    },
+    {
+      "id": 5,
+      "title": "Picking a Windows 10 Security Package",
+      "desciption": "Oscar the Grouch has a recycling bin and Big Bird has moved to a tree as the children’s classic debuts on HBO, aiming at a generation that doesn’t distinguish between TV and mobile screens.",
+      "author": "Alexandre Henrique Shailesh Zeta-Jones",
+      "authorImage": "https://randomuser.me/api/portraits/men/20.jpg",
+      "category": "Tech"
+    },
+    {
+      "id": 6,
+      "title": "As U.S. Modernizes Nuclear Weapons, ‘Smaller’ Leaves Some Uneasy",
+      "desciption": "The Energy Department and the Pentagon have been readying a weapon with a build-it-smaller approach, setting off a philosophical clash in the world of nuclear arms.",
+      "author": "Alexandre Henrique Shailesh Zeta-Jones",
+      "authorImage": "https://randomuser.me/api/portraits/men/20.jpg",
+      "category": "Science"
+    }
+  ]
+}
